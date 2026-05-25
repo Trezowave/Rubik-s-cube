@@ -21,9 +21,33 @@
     <ClCompile Include="cube.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="solver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vision.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="utility.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vision.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
